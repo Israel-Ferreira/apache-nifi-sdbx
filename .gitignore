@@ -52,6 +52,14 @@ data/Filtra/**
 !data/in/.gitkeep
 !data/Filtra/.gitkeep
 
+data/Replace/**
+data/Logs/**
+data/Saida_XML/**
+
 !data/Replace/.gitkeep
+!data/Logs/.gitkeep
+
+!data/Saida_XML/.gitkeep
+
 
 .vscode
